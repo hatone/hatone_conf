@@ -1,0 +1,1 @@
+twitvim-0.7.0.vba: call delete('/Users/hatone/.vim/plugin/twitvim.vim')|call delete('/Users/hatone/.vim/doc/twitvim.txt')

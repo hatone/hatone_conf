@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/hatone/jumap/app/views/plot'
+let g:netrw_dirhist_2='/Users/hatone/jumap/app/assets/javascripts'
+let g:netrw_dirhist_3='/Users/hatone/SandBox/ambientone'
